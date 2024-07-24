@@ -39,3 +39,28 @@
     color: #ffffff;
     text-align: center;
 }
+
+.contato {
+    background-color: #2d9e49;
+    
+}
+.contato__titulo{
+    color: #ffffff; display: flex; justify-content: space-around; align-items: center;
+ } 
+
+.contato__texto { color: #ffffff;    
+}
+.contato__email {
+    padding: 1em;
+    border: 1px solid;
+    border-radius: 24px;
+    width: 90%;
+}
+
+
+
+
+
+
+
+
