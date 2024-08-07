@@ -38,10 +38,12 @@
     background-color: #3a6852;
     color: #ffffff;
     text-align: center;
+    padding: 1em 0;
 }
 
 .contato {
     background-color: #2d9e49;
+    padding: 1em 0;
     
 }
 .contato__titulo{
